@@ -1,13 +1,5 @@
 {
-   "notifications":[
-
-   ],
-   "reservations":[
-
-   ],
-   "past_reservations":[
-
-   ],
+   "weather":{}
    "user":{
       "name":"Cornelis Lely",
       "address":"Kanaalweg 14, Utrecht",
