@@ -1,0 +1,10 @@
+{
+   "terms_of_use":"version_17092019",
+   "name":"First Lastname",
+   "telephone":"0031123456789",
+   "email":"me@example.com",
+   "company_name":"Optional",
+   "company_street":"Optionalroad 1",
+   "company_postalcode":"1234AB",
+   "company_city":"Lelystad"
+}
