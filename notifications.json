@@ -25,14 +25,14 @@
   {
     "id": "3bdac0ff-ae7e-4ff4-b289-e610ede7ddcc",
     "date_time": "10:40 17-09-2019",
-    "read": false,
+    "read": true,
     "title": "A title of a notification",
     "message": "But last week, Edinburgh's Court of Session found in favour"
   },
   {
     "id": "cedf05c1-5982-459c-9f02-98c8e634ccba",
     "date_time": "10:40 17-09-2019",
-    "read": false,
+    "read": true,
     "title": "Emojitest: 👩‍🚀",
     "message": " 👩‍🚀 👩‍🚀 👩‍🚀 👩‍🚀 👩‍🚀 👩‍🚀 👩‍🚀 :D",
     "reservation_id": "bd56a8c9-474d-43b9-a08a-d5628260102f"
@@ -40,14 +40,14 @@
   {
     "id": "2635d153-69b0-49dd-8c07-e2fd0dc03ca2",
     "date_time": "10:40 17-09-2019",
-    "read": false,
+    "read": true,
     "title": "Another notification",
     "message": "It found that the prime minister had effectively misled the Queen in the sovereign's exercise of prerogative powers."
   },
   {
     "id": "61222ae8-95a2-4a95-9f53-4913e788c356",
     "date_time": "10:40 17-09-2019",
-    "read": false,
+    "read": true,
     "title": "",
     "message": "",
     "reservation_id": ""
@@ -55,7 +55,7 @@
   {
     "id": "849cf40a-1ee9-42cd-9df0-bed47f611594",
     "date_time": "10:40 17-09-2019",
-    "read": false,
+    "read": true,
     "title": "The previous notification had no title, this one a very long",
     "message": "Now a new art installation is bringing the influential scene back to life, in all its filthy glory.",
     "reservation_id": "c0670b87-3785-44d5-8d6c-69962a1f408d"
@@ -63,7 +63,7 @@
   {
     "id": "cb03a199-1878-40f1-a1de-d403e83d5e52",
     "date_time": "10:40 17-09-2019",
-    "read": false,
+    "read": true,
     "title": "A title of a notification",
     "message": "Meet Me in the Bathroom: The Art Show is based on Lizzy Goodman",
     "reservation_id": "947a90a5-0547-4e6a-8c4a-cecca0217e03"
@@ -71,7 +71,7 @@
   {
     "id": "aaa39454-56ad-4b68-b4e9-041eb752bacc",
     "date_time": "10:40 17-09-2019",
-    "read": false,
+    "read": true,
     "title": "The last notification",
     "message": "Goodman, a friend of Strokes guitarist Nick Valensi since their teens, talks the BBC through the show and why the era still means so much to so many."
   }
