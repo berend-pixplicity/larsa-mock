@@ -1,8 +1,8 @@
 {
-      "datetime":"10:40 17-09-2019",
-      "operationType":"Confirm your reservation 🆕",
-      "reservationId":"",
-      "duration":"20",
-      "touchAndGos":"4",
-      "status":"Accepted"
-   }
+  "id": "1a6eaafd-044b-40da-90f5-c492c1192e5e",
+  "date_time": "10:40 17-09-2019",
+  "operation_type": "IFR Training",
+  "duration": "20",
+  "touch_and_go": "4",
+  "status": "Confirmed"
+}
