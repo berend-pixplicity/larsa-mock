@@ -1,8 +1,9 @@
 {
-  "id": "1a6eaafd-044b-40da-90f5-c492c1192e5e",
+  "id": "8feefce1-78da-4332-9973-48e4d970ae53",
   "date_time": "10:40 17-09-2019",
   "operation_type": "IFR Training",
   "duration": "20",
   "touch_and_go": "4",
-  "status": "Confirmed"
+  "status": "Confirmed",
+  "notification_id": "eec6dbfd-0249-4dea-9861-090c989d11c5"
 }
