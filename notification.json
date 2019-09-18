@@ -1,6 +1,8 @@
 {
-      "datetime":"10:40 17-09-2019",
-      "title":"Confirm your reservation 🆕",
-      "message":"Lady Hale, President of the Court, stressed the landmark case would have no bearing on the timing of Brexit. ",
-      "reservation_id":"optional related reservation id"
+  "id": "b42c6450-56b5-4c45-a423-6a7043680b5a",
+  "date_time": "10:40 17-09-2019",
+  "read": false,
+  "title": "Confirm your reservation 🆕",
+  "message": "Lady Hale, President of the Court, stressed the landmark case would have no bearing on the timing of Brexit.",
+  "reservation_id": "optional related reservation id"
 }
