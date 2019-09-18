@@ -1,11 +1,12 @@
 [
   {
-    "id": "cbb75d09-edce-4091-9668-977c530d1580",
+    "id": "8feefce1-78da-4332-9973-48e4d970ae53",
     "date_time": "10:40 17-09-2019",
     "operation_type": "VFR Circuit",
     "duration": "20",
     "touch_and_go": "4",
-    "status": "Accepted"
+    "status": "Accepted",
+    "notification_id": "eec6dbfd-0249-4dea-9861-090c989d11c5"
   },
   {
     "id": "ffe9e14f-a402-4f2c-acf8-4757d18c3d6b",
