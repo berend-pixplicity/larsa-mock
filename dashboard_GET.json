@@ -1,5 +1,10 @@
 {
-   "weather":{},
+   "weather":{
+      "temperature": "22 °C",
+      "visibility": "23 km",
+      "wind": "13 kts NE",
+      "clouds": "sunny"
+   },
    "user":{
       "name":"Cornelis Lely",
       "address":"Kanaalweg 14, Utrecht",
