@@ -3,7 +3,7 @@
     "id": "b42c6450-56b5-4c45-a423-6a7043680b5a",
     "date_time": "10:40 17-09-2019",
     "read": false,
-    "title": "Confirm your reservation 🆕",
+    "title": "RConfirm your reservation 🆕",
     "message": "In her opening statement, the most senior judge in the UK said she and her 10 colleagues would endeavour to address the serious and difficult questions of law raised by the case, but would not determine wider political questions relating to the Brexit process.",
     "reservation_id": "477fe498-66f7-4d3c-9400-04fe93023152"
   },
@@ -11,7 +11,7 @@
     "id": "eec6dbfd-0249-4dea-9861-090c989d11c5",
     "date_time": "10:40 17-09-2019",
     "read": false,
-    "title": "Upcoming closures 🆕",
+    "title": "RUpcoming closures 🆕",
     "message": "Over the next three days, the Supreme Court will consider two separate legal challenges over whether Mr Johnson acted lawfully in advising the Queen to prorogue Parliament.",
     "reservation_id": "8feefce1-78da-4332-9973-48e4d970ae53"
   },
@@ -33,7 +33,7 @@
     "id": "cedf05c1-5982-459c-9f02-98c8e634ccba",
     "date_time": "10:40 17-09-2019",
     "read": true,
-    "title": "Emojitest: 👩‍🚀",
+    "title": "REmojitest: 👩‍🚀",
     "message": " 👩‍🚀 👩‍🚀 👩‍🚀 👩‍🚀 👩‍🚀 👩‍🚀 👩‍🚀 :D",
     "reservation_id": "bd56a8c9-474d-43b9-a08a-d5628260102f"
   },
@@ -56,7 +56,7 @@
     "id": "849cf40a-1ee9-42cd-9df0-bed47f611594",
     "date_time": "10:40 17-09-2019",
     "read": true,
-    "title": "The previous notification had no title, this one a very long",
+    "title": "RThe previous notification had no title, this one a very long",
     "message": "Now a new art installation is bringing the influential scene back to life, in all its filthy glory.",
     "reservation_id": "c0670b87-3785-44d5-8d6c-69962a1f408d"
   },
@@ -64,7 +64,7 @@
     "id": "cb03a199-1878-40f1-a1de-d403e83d5e52",
     "date_time": "10:40 17-09-2019",
     "read": true,
-    "title": "A title of a notification",
+    "title": "RA title of a notification",
     "message": "Meet Me in the Bathroom: The Art Show is based on Lizzy Goodman",
     "reservation_id": "947a90a5-0547-4e6a-8c4a-cecca0217e03"
   },
