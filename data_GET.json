@@ -1,15 +1,27 @@
 {
-   "weather":{
+  "weather": [
+    {
+      "title": "Today",
+      "subtitle": "Monday, 67 July 2019",
       "temperature": "22 °C",
       "visibility": "23 km",
       "wind": "13 kts NE",
       "clouds": "sunny"
-   },
-   "user":{
-      "name":"Cornelis Lely",
-      "address":"Kanaalweg 14, Utrecht",
-      "telephone":"+316123456789",
-      "email":"cornelis@example.com",
-      "company":"C Lely Luchtpolders"
-   }
+    },
+    {
+      "title": "Tomorrow",
+      "subtitle": "Tuesday, 27 July 2019",
+      "temperature": "16 °C",
+      "visibility": "5 km",
+      "wind": "26 kts NE",
+      "clouds": "cloudy"
+    }
+  ],
+  "user": {
+    "name": "Cornelis Lely",
+    "address": "Kanaalweg 14, Utrecht",
+    "telephone": "+316123456789",
+    "email": "cornelis@example.com",
+    "company": "C Lely Luchtpolders"
+  }
 }
