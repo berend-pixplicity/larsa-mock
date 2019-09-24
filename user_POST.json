@@ -1,2 +1,10 @@
 {
+    "name": "Cornelis Lely",
+    "address": "Kanaalweg 14, Utrecht",
+    "phone": "+316123456789",
+    "email": "cornelis@example.com",
+    "company": "C Lely Luchtpolders",
+    "company_address":"Kanaalweg 14",
+    "company_postalcode":"3526AK",
+    "company_city":"Utrecht"
 }
