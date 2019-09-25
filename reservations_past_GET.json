@@ -3,44 +3,42 @@
     "id": "cbb75d09-edce-4091-9668-977c530d1580",
     "date_time": "10:40 17-09-2019",
     "operation_type": "VFR Circuit",
-    "duration": "20",
-    "touch_and_go": "4",
+    "message": "17-09-2019 15:35-15:55\nReservation id: 654123987",
     "status": "Accepted"
   },
   {
     "id": "ffe9e14f-a402-4f2c-acf8-4757d18c3d6b",
     "date_time": "10:40 17-09-2019",
     "operation_type": "VFR Arrival",
-    "duration": "20",
+    "message": "17-09-2019 15:35-15:55\nReservation id: 654123987",
     "status": "Cancelled"
   },
   {
     "id": "e0ff9d24-b081-4ffd-be11-ac4ca2efae94",
     "date_time": "10:40 17-09-2019",
     "operation_type": "VFR Departure",
-    "duration": "20",
+    "message": "17-09-2019 15:35-15:55\nReservation id: 654123987",
     "status": "Accepted"
   },
   {
     "id": "1a6eaafd-044b-40da-90f5-c492c1192e5e",
     "date_time": "10:40 17-09-2019",
     "operation_type": "IFR Training",
-    "duration": "20",
-    "touch_and_go": "4",
+    "message": "17-09-2019 15:35-15:55\nReservation id: 654123987",
     "status": "Confirmed"
   },
   {
     "id": "79c6c157-d93e-4f75-aa63-60b5d325789e",
     "date_time": "10:40 17-09-2019",
     "operation_type": "IFR Arrival",
-    "duration": "20",
+    "message": "17-09-2019 15:35-15:55\nReservation id: 654123987",
     "status": "Confirmed"
   },
   {
     "id": "0584b9be-e154-4e26-9e1d-d273d6cc3c21",
     "date_time": "10:40 17-09-2019",
     "operation_type": "HELI FATO",
-    "duration": "20",
+    "message": "17-09-2019 15:35-15:55\nReservation id: 654123987",
     "status": "Confirmed"
   }
 ]
