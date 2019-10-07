@@ -1,0 +1,16 @@
+[
+  {
+    "date": "Monday, 67 July 2019",
+    "temperature": "22 °C",
+    "visibility": "23 km",
+    "wind": "13 kts NE",
+    "clouds": "sunny"
+  },
+  {
+    "date": "Tuesday, 27 July 2019",
+    "temperature": "16 °C",
+    "visibility": "5 km",
+    "wind": "26 kts NE",
+    "clouds": "cloudy"
+  }
+]

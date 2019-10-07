@@ -1,0 +1,14 @@
+{
+  "id": 0,
+  "name": "Cornelis Lely",
+  "phone": "+316123456789",
+  "email": "cornelis@example.com",
+  "company_name": "C Lely Luchtpolders",
+  "company_address": "Kanaalweg 14",
+  "company_postalcode": "3526AK",
+  "company_city": "Utrecht",
+  "terms_of_use": "string",
+  "date_joined": "2019-10-07T11:13:47.988Z",
+  "is_active": true
+}
+
