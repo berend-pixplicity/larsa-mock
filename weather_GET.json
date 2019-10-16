@@ -5,7 +5,8 @@
     "humidity": "80%",
     "temperature": "22 °C",
     "wind": "13 kts 130°",
-    "description": "sunny"
+    "description": "light rain",
+    "icon": "10d"
   },
   {
     "title": "Tomorrow",
@@ -13,6 +14,7 @@
     "humidity": "85%",
     "temperature": "16 °C",
     "wind": "26 kts 170°",
-    "description": "cloudy"
+    "description": "clear sky",
+    "icon": "01d"
   }
 ]
