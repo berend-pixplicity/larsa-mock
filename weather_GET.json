@@ -2,17 +2,17 @@
   {
     "title": "Today",
     "date": "2019-10-07T11:44:28+02:00",
+    "humidity": "80%",
     "temperature": "22 °C",
-    "visibility": "23 km",
-    "wind": "13 kts NE",
-    "clouds": "sunny"
+    "wind": "13 kts 130°",
+    "description": "sunny"
   },
   {
     "title": "Tomorrow",
     "date": "2019-10-08T11:44:28+02:00",
+    "humidity": "85%",
     "temperature": "16 °C",
-    "visibility": "5 km",
-    "wind": "26 kts NE",
-    "clouds": "cloudy"
+    "wind": "26 kts 170°",
+    "description": "cloudy"
   }
 ]
